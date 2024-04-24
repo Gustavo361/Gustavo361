@@ -24,7 +24,6 @@
   <img align="center" alt="Gustavo-SQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Gustavo-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Gustavo-SQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-line.svg">
-  <img align="center" alt="Gustavo-SQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-line.svg">
   <img align="center" alt="Gustavo-SQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
   
 </div>

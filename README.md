@@ -6,7 +6,7 @@ Sou Gustavo, um desenvolvedor full stack apaixonado por tecnologia e inovação.
 - 🌱 Estou constantemente aprimorando minhas habilidades em PHP, Laravel e VueJS.
 - 💬 Fique à vontade para me perguntar sobre meus projetos ou qualquer coisa relacionada a desenvolvimento!
 - 📫 Como me achar: gustavofaustino361@gmail.com
-- 🔗 Conecte-se comigo no [LinkedIn](https://github.com/Gustavo361) ou veja meu portfólio em [gustavof-dev](https://gustavof-dev.onrender.com).
+- 🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/gustavo-faustino-2659331ba) ou veja meu portfólio em [gustavof-dev](https://gustavof-dev.onrender.com).
 
 ### 🛠️ Projetos Recentes
 - **[EasyBank](https://github.com/Gustavo361/easybank-fullstack)**: Interface responsiva para aplicativo bancário, com funcionalidades de login, cadastro e criptografia de senhas armazenadas remotamente. Desenvolvido utilizando as tecnologias Node.js, Express.js, MongoDB, HTML entre outras.
@@ -21,7 +21,7 @@ I’m Gustavo, a full stack developer passionate about technology and innovation
 - 🌱 I’m constantly improving my skills in PHP, Laravel and VueJS.
 - 💬 Feel free to ask me about my projects or anything related to development!
 - 📫 How to reach me: gustavofaustino361@gmail.com
-- 🔗 Connect with me on [LinkedIn](https://github.com/Gustavo361) or check out my portfolio at [gustavof-dev](https://gustavof-dev.onrender.com).
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/gustavo-faustino-2659331ba) or check out my portfolio at [gustavof-dev](https://gustavof-dev.onrender.com).
 
 ### 🛠️ Recent Projects
 - **[EasyBank](https://github.com/Gustavo361/easybank-fullstack)**: A responsive interface for a banking app, featuring login, registration, and encrypted storage for passwords. Developed using technologies like Node.js, Express.js, MongoDB, HTML, among others.

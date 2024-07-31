@@ -5,7 +5,7 @@ Sou Gustavo, um desenvolvedor full stack apaixonado por tecnologia e inovação.
 [//]: # (🔭 Atualmente, estou trabalhando em [seu projeto atual ou algum destaque].)
 - 🌱 Estou constantemente aprimorando minhas habilidades em PHP, Laravel e VueJS.
 - 💬 Fique à vontade para me perguntar sobre meus projetos ou qualquer coisa relacionada a desenvolvimento!
-- 📫 Como me achar: gustavofaustino361@gmail.com
+- 📫 Como me achar: gustavofaustino361@gmail.com.
 - 🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/gustavo-faustino-2659331ba) ou veja meu portfólio em [gustavof-dev](https://gustavof-dev.onrender.com).
 
 ### 🛠️ Projetos Recentes
@@ -20,7 +20,7 @@ I’m Gustavo, a full stack developer passionate about technology and innovation
 [//]: # (🔭 Atualmente, estou trabalhando em [seu projeto atual ou algum destaque].)
 - 🌱 I’m constantly improving my skills in PHP, Laravel and VueJS.
 - 💬 Feel free to ask me about my projects or anything related to development!
-- 📫 How to reach me: gustavofaustino361@gmail.com
+- 📫 How to reach me: gustavofaustino361@gmail.com.
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/gustavo-faustino-2659331ba) or check out my portfolio at [gustavof-dev](https://gustavof-dev.onrender.com).
 
 ### 🛠️ Recent Projects

@@ -35,9 +35,17 @@ I’m Gustavo, a full stack developer passionate about technology and innovation
 - **[EasyBank](https://github.com/Gustavo361/easybank-fullstack)**: A responsive interface for a banking app, featuring login, registration, and encrypted storage for passwords. Developed using technologies like Node.js, Express.js, MongoDB, HTML, among others.
 - **[CRUD - Laravel, VueJS, MySQL](https://github.com/Gustavo361/phonebook)**: A phonebook CRUD (Create, Read, Update, Delete) application built using Laravel for the backend and Vue.js for the frontend.
 
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavo361&theme=dracula"/>
+</div>
+<br>
+<div align="center">
+Thank you for visiting my GitHub profile!
+</div>
+<br>
+
 #### Portuguese version:
 ### Olá! 👋
-
 Sou Gustavo, um desenvolvedor full stack apaixonado por tecnologia e inovação. Tenho conhecimento em várias tecnologias modernas e adoro criar soluções que tornam a vida das pessoas mais fácil e divertida. Gosto de aprender e explorar novas tendências no desenvolvimento web e também mobile, e estou sempre buscando desafios que me permitam crescer como desenvolvedor e como pessoa.
 
 [//]: # (🔭 Atualmente, estou trabalhando em [seu projeto atual ou algum destaque].)
@@ -49,3 +57,6 @@ Sou Gustavo, um desenvolvedor full stack apaixonado por tecnologia e inovação.
 ### 🛠️ Projetos Recentes
 - **[EasyBank](https://github.com/Gustavo361/easybank-fullstack)**: Interface responsiva para aplicativo bancário, com funcionalidades de login, cadastro e criptografia de senhas armazenadas remotamente. Desenvolvido utilizando as tecnologias Node.js, Express.js, MongoDB, HTML entre outras.
 - **[CRUD - Laravel, VueJS, MySQL](https://github.com/Gustavo361/phonebook)**: Uma aplicação de agenda telefônica CRUD (Criar, Ler, Atualizar, Excluir) desenvolvida usando Laravel para o backend e Vue.js para o frontend.
+<div align="center">
+Obrigado por visitar meu perfil no GitHub!
+</div>

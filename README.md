@@ -8,7 +8,7 @@ I’m Gustavo, a full stack developer passionate about technology and innovation
 - 📫 How to reach me: gustavofaustino361@gmail.com.
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/gustavo-faustino-2659331ba) or check out my portfolio at [gustavof-dev](https://gustavof-dev.onrender.com).
 
-<div align="center"><br>
+<div align="center">
   <img align="center" alt="Gustavo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> |
   <img align="center" alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gustavo-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"> |
@@ -24,7 +24,7 @@ I’m Gustavo, a full stack developer passionate about technology and innovation
   <img align="center" alt="Gustavo-SQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg"> |
   <img align="center" alt="Gustavo-SQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
 </div>
-
+<br>
 <div align="center">
   <a href="https://github.com/Gustavo361/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo361&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

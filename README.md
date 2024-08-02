@@ -25,9 +25,8 @@ I’m Gustavo, a full stack developer passionate about technology and innovation
   <img align="center" alt="Gustavo-SQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
 </div>
 <br>
-<div align="center">
+<div>
   <a href="https://github.com/Gustavo361/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo361&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo361&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 

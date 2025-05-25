@@ -3,7 +3,7 @@
 I’m Gustavo, a full stack developer passionate about technology and innovation. I have knowledge in various modern technologies and love creating solutions that make people's lives easier and more enjoyable. I enjoy learning and exploring new trends in both web and mobile development, and I'm always looking for challenges that allow me to grow as a developer and as a person.
 
 [//]: # (🔭 Atualmente, estou trabalhando em [seu projeto atual ou algum destaque].)
-- 🌱 I’m constantly improving my skills in PHP, Laravel and VueJS.
+- 🌱 I’m constantly improving my skills in PHP and JS.
 - 💬 Feel free to ask me about my projects or anything related to development!
 - 📫 How to reach me: gustavofaustino361@gmail.com.
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/gustavo-faustino-2659331ba) or check out my portfolio at [gustavof-dev](https://gustavof-dev.onrender.com).
@@ -48,7 +48,7 @@ Thank you for visiting my GitHub profile!
 Sou Gustavo, um desenvolvedor full stack apaixonado por tecnologia e inovação. Tenho conhecimento em várias tecnologias modernas e adoro criar soluções que tornam a vida das pessoas mais fácil e divertida. Gosto de aprender e explorar novas tendências no desenvolvimento web e também mobile, e estou sempre buscando desafios que me permitam crescer como desenvolvedor e como pessoa.
 
 [//]: # (🔭 Atualmente, estou trabalhando em [seu projeto atual ou algum destaque].)
-- 🌱 Estou constantemente aprimorando minhas habilidades em PHP, Laravel e VueJS.
+- 🌱 Estou constantemente aprimorando minhas habilidades em PHP e JS.
 - 💬 Fique à vontade para me perguntar sobre meus projetos ou qualquer coisa relacionada a desenvolvimento!
 - 📫 Como me achar: gustavofaustino361@gmail.com.
 - 🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/gustavo-faustino-2659331ba) ou veja meu portfólio em [gustavof-dev](https://gustavof-dev.onrender.com).

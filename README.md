@@ -6,7 +6,7 @@ I’m Gustavo, a full stack developer passionate about technology and innovation
 - 🌱 I’m constantly improving my skills in PHP and JS.
 - 💬 Feel free to ask me about my projects or anything related to development!
 - 📫 How to reach me: gustavofaustino361@gmail.com.
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/gustavo-faustino-2659331ba) or check out my portfolio at [gustavof-dev](https://gustavof-dev.onrender.com).
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/gustavo-faustino-2659331ba).
 
 <div align="center">
   <img align="center" alt="Gustavo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> |
@@ -51,7 +51,7 @@ Sou Gustavo, um desenvolvedor full stack apaixonado por tecnologia e inovação.
 - 🌱 Estou constantemente aprimorando minhas habilidades em PHP e JS.
 - 💬 Fique à vontade para me perguntar sobre meus projetos ou qualquer coisa relacionada a desenvolvimento!
 - 📫 Como me achar: gustavofaustino361@gmail.com.
-- 🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/gustavo-faustino-2659331ba) ou veja meu portfólio em [gustavof-dev](https://gustavof-dev.onrender.com).
+- 🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/gustavo-faustino-2659331ba).
 
 ### 🛠️ Projetos Recentes
 - **[EasyBank](https://easy-bank-ui.onrender.com)**: Interface responsiva para aplicativo bancário, com funcionalidades de login, cadastro e criptografia de senhas armazenadas remotamente. Desenvolvido utilizando as tecnologias Node.js, Express.js, MongoDB, HTML entre outras.

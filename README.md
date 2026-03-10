@@ -29,14 +29,6 @@ I’m Gustavo, a full stack developer passionate about technology and innovation
   <a href="https://github.com/Gustavo361/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo361&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-### 🛠️ Recent Projects
-- **[Laravel, VueJS, MySQL](https://github.com/Gustavo361/phonebook)**: A phonebook CRUD (Create, Read, Update, Delete) application built using Laravel for the backend and Vue.js for the frontend.
-
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavo361&theme=dracula"/>
-</div>
-<br>
 <div align="center">
 Thank you for visiting my GitHub profile!
 </div>
@@ -52,8 +44,6 @@ Sou Gustavo, um desenvolvedor full stack apaixonado por tecnologia e inovação.
 - 📫 Como me achar: gustavofaustino361@gmail.com.
 - 🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/gustavo-faustino-2659331ba).
 
-### 🛠️ Projetos Recentes
-- **[Laravel, VueJS, MySQL](https://github.com/Gustavo361/phonebook)**: Uma aplicação de agenda telefônica CRUD (Criar, Ler, Atualizar, Excluir) desenvolvida usando Laravel para o backend e Vue.js para o frontend.
 <div align="center">
 Obrigado por visitar meu perfil no GitHub!
 </div>
